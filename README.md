@@ -20,4 +20,6 @@ Skills: REACT / JS / HTML / CSS / Python
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AryanKatariya)  
 
-![Profile views](https://gpvc.arturio.dev/AryanKatariya)  
+![Profile views](https://gpvc.arturio.dev/AryanKatariya) 
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AryanKatariya)  
