@@ -3,10 +3,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKatariya&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKatariya&show_icons=true&theme=radical) -->
 
-👋 Hi there, my name is Aryan
+👋 Hi there, my name is Aryan Katariya
 #### Autodidact
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / Python 
 
 - 🌱 I’m currently learning Linux Admin 
 - 📫 How to reach me: aryankatariya21@gmail.com 
