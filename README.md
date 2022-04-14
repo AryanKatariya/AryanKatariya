@@ -1,12 +1,10 @@
-Hi there 👋
-
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKatariya)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKatariya&count_private=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKatariya&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryanKatariya&show_icons=true&theme=radical) -->
 
-### Hi there 👋, my name is Aryan
-#### Front End Dev
+👋 Hi there, my name is Aryan
+#### Autodidact
 
 Skills: REACT / JS / HTML / CSS
 
