@@ -6,9 +6,9 @@
 👋 Hi there, my name is Aryan Katariya
 #### Autodidact
 
-Skills: REACT / JS / HTML / CSS / Python 
+Skills: REACT / JS / HTML / CSS / Python / Shell Scripting(Basics)
 
-- 🌱 I’m currently learning Linux Admin 
+- 🌱 I’m currently learning Shell Scripting
 - 📫 How to reach me: aryankatariya21@gmail.com 
 
 
