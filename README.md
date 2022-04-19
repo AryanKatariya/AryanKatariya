@@ -10,7 +10,7 @@ Skills: REACT / JS / HTML / CSS / Python / Shell Scripting(Basics)
 
 - 🌱 I’m currently learning Shell Scripting
 - 📫 How to reach me: aryankatariya21@gmail.com
-- Future Goal : Cloud Computing and Cloud Securty
+- Future Goal : Cloud Computing and Cloud Security
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AryanKatariya)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/Shadynik)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://aryankatariya.github.io/)  
